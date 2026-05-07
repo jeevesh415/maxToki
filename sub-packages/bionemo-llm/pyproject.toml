@@ -14,7 +14,7 @@ dependencies = [
     # bionemo sub-packages
     'bionemo-core',
     # external
-    'lightning>=2.2.1',
+    'lightning<=2.6.1',
     'megatron-core',
     'nemo_toolkit[nlp,eval]>=2.2.1',
     'nemo-run',
